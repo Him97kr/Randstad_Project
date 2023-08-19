@@ -2,7 +2,7 @@
 
 ## About this project
 
-The purpose of this project is to display dynamic albums taking data from provided URL. It shows list of data present in each album which can be searched using search bar. Project also maintain list items visit history once clicked.
+The purpose of this project is to display albums and its corresponding list items fetching data from provided URL. It shows list of data present in each album which can be searched using search bar. List items visit history is also maintained in all the albums.
 
 This project uses:
 
