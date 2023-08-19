@@ -14,14 +14,17 @@ This project uses:
 ## Features
 
 - Load and fetch the Data from given URL.
-- Search bar is availabe to search for list data from all albums.
+- Search bar is availabe to search for list items from all albums.
 - Each ablum maintains unvisited list count at the top-right corner.
 - If any list item is clicked then its visit history is maintained in all the albums.
 
-## Set Up and Start
+## Installation
 
-No external library is used so just start the application with command.
+Install the dependencies for React and start the application.
 
 ```sh
+npm i
 npm start
 ```
+
+Note: No external libraries are used in this project
